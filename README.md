@@ -1,2 +1,2 @@
 # bash
-Scripts
+Scripts for testing
